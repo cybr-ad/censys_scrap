@@ -1,0 +1,38 @@
+[
+  {
+    "name": "auth_v1",
+    "value": "MTc5MjU2NDU1N3xyb1ZuQXhwVkQ4UGxNcVl5NDYyTng0blcwcUNLXzZmNHM0R0lBbmtNVXJwenZ1ZGpsQk13cUVHeVFzUVlNS19ucHItMWowTThtRlJHWnpHWVRBYTBTajNlamVfNUJUYUFlMV9pSS1wanlZOUd6b3FhQXVkOE45M0NKWElsVFNaRlpMVVJ0VmktdHZIMVJLMUx0bzFwZEZGVGFReEg5N0tXRXhNTEs2TzBvV2ZRUXJHaFY2X3Y3ZUFmLXY5eG0yZW1xblAxaHZRZVQyZWM5Ni1BQVhVcktSX0xWVW9LWF9zUXRRc2YtTUJoOTgtRi1XQUVkN3RhN0JydzZlRnNMMlpsWkVUQ0p5Y01jWURJUnZrODJ2YTN8oNh835TSURTWkNGZ3m6Rxma08EfMoW9Q96XHoXXKKxc=",
+    "domain": ".censys.io",
+    "path": "/"
+  },
+  {
+    "name": "__cf_bm",
+    "value": "YIEJSJRMS5CQT45UPed66xG_VC1a3haAUtozQuJ_fdU-1792567431.5136285-1.0.1.1-hVglxfaomD.3sx0pMBKUutDjaM5cKCgWKwMAAaW5ICgL4QDBbkPGMbUlOKWH4j.hV4H0Ge7i0H8yohAJsOfVomAZ9BE92cHzvH9VIA62JMqcXVIHjJY_9polVFE3N4cF",
+    "domain": ".censys.io",
+    "path": "/"
+  },
+  {
+    "name": "csrf_v2",
+    "value": "ImN0dnI1aURNRnlyMGY1NEApd2s0aTNxYjFnT0dZQXZBLnNxT1VrbDd2ZmZ5bF9ISS1qQ240OGItd2ZqX0F0THVOUngwd1dIVHV2dVk9Ig%3D%3D.0B7e2VIRgr56AhOilSQP73JN18Remx6bQcwBZeK2tEI",
+    "domain": "platform.censys.io",
+    "path": "/"
+  },
+  {
+    "name": "locale",
+    "value": "ImVuIg%3D%3D",
+    "domain": ".censys.io",
+    "path": "/"
+  },
+  {
+    "name": "preferredTheme-censys.io-f5815c2da102",
+    "value": "InRoZW1lLWxpZ2h0LW1vZGUi",
+    "domain": ".censys.io",
+    "path": "/"
+  },
+  {
+    "name": "userPreferences-censys.io-f5815c2da102",
+    "value": "eyJzaWRlTmF2RXhwYW5kZWQiOmZhbHNlLCJmaWx0ZXJTaWRlYmFyQ29sbGFwc2VkIjpmYWxzZSwic2lkZU5hdkdyb3VwcyI6eyJpbnZlc3RpZ2F0ZSI6dHJ1ZSwiZGVmZW5kIjp0cnVlLCJpbnRlbGxpZ2VuY2UiOnRydWUsIm15V29yayI6dHJ1ZSwiZXhwbG9yZU1vZHVsZXMiOnRydWUsInJlc291cmNlcyI6ZmFsc2V9fQ%3D%3D",
+    "domain": ".censys.io",
+    "path": "/"
+  }
+]
