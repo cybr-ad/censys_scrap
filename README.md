@@ -18,8 +18,8 @@ A powerful, high-performance web scraper for [Censys Platform](https://platform.
 
 ### 1. Clone or Download the Repository
 ```bash
-git clone <your-repo-url>
-cd censys
+git clone [<your-repo-url>](https://github.com/cybr-ad/censys_scrap.git)
+cd censys_scrap
 ```
 
 ### 2. Install Python Dependencies
