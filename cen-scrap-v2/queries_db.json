@@ -1,0 +1,42 @@
+{
+  "host.services.port: 88 and host.services.port: 389": {
+    "corrected_query": "host.services.port: 88 and host.services.port: 389",
+    "is_valid": true,
+    "timestamp": "2026-10-21 16:15:00"
+  },
+  "services.port: 88 and services.port: 389": {
+    "corrected_query": "host.services.port: 88 and host.services.port: 389",
+    "is_valid": true,
+    "timestamp": "2026-10-21 16:15:00"
+  },
+  "services.service_name: `LDAP`": {
+    "corrected_query": "host.services.service_name: LDAP",
+    "is_valid": true,
+    "timestamp": "2026-10-21 16:48:00"
+  },
+  "services.service_name: LDAP": {
+    "corrected_query": "host.services.service_name: LDAP",
+    "is_valid": true,
+    "timestamp": "2026-10-21 16:48:00"
+  },
+  "services: (service_name: 'KERBEROS' and service_name: 'LDAP')": {
+    "corrected_query": "host.services:(protocol:\"KERBEROS\" and protocol:\"LDAP\")",
+    "is_valid": true,
+    "timestamp": "2026-10-21 16:55:00"
+  },
+  "services: (service_name: `KERBEROS` and service_name: `LDAP`)": {
+    "corrected_query": "host.services:(protocol:\"KERBEROS\" and protocol:\"LDAP\")",
+    "is_valid": true,
+    "timestamp": "2026-10-21 16:55:00"
+  },
+  "services.service_name: `KERBEROS` and services.service_name: `SMB`": {
+    "corrected_query": "host.services.protocol:\"KERBEROS\" and host.services.protocol:\"SMB\"",
+    "is_valid": true,
+    "timestamp": "2026-10-21 17:02:00"
+  },
+  "services.service_name: 'KERBEROS' and services.service_name: 'SMB'": {
+    "corrected_query": "host.services.protocol:\"KERBEROS\" and host.services.protocol:\"SMB\"",
+    "is_valid": true,
+    "timestamp": "2026-10-21 17:02:00"
+  }
+}
